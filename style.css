@@ -1,0 +1,77 @@
+h1,
+header h3 {
+  font-family: "Courier New", Courier, monospace;
+  color: black;
+  text-align: center;
+}
+
+/* This is to style image using class .center */
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact {
+  font-size: 18px;
+  color: lightgreen !important;
+}
+
+header,
+footer {
+  background-color: lightgoldenrodyellow;
+  padding: 10px 80px;
+  width: 600px;
+}
+
+header {
+  height: 100px;
+}
+
+footer {
+  height: 50px;
+}
+
+footer p {
+  text-align: center;
+  color: black;
+}
+
+main h2 {
+  text-align: center;
+  color: white;
+}
+
+ul,
+ol {
+  color: white;
+}
+
+main {
+  padding-left: 80px;
+  padding-right: 80px;
+  background-color: black;
+  width: 600px;
+  height: 100%;
+}
+
+main p {
+  color: white;
+  font-size: 15px;
+}
+
+/* This is to style the links */
+
+a:link {
+  color: blue;
+}
+a:visited {
+  color: white;
+}
+a:hover {
+  color: green;
+}
+a:active {
+  color: pink;
+}
